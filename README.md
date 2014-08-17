@@ -3,7 +3,7 @@ bash-util
 
 Linux bash util to let you master the world.
 
-##gbk-to-utf8
+##gbk-to-utf8.sh
 The bash is Android project preferred.
 
 Always some guys use gbk for their project, eclipse users especially, so when you use their project, import to IDEA, then set the file codings to utf8 is painful.So I wrote this.You just need,
